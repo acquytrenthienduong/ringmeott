@@ -1,0 +1,11 @@
+framework module RingmeOttSdk {
+  umbrella header "RingmeOttSdk.h"
+
+  export *
+  module * { export * }
+}
+
+module RingmeOttSdk.Swift {
+  header "RingmeOttSdk-Swift.h"
+  requires objc
+}

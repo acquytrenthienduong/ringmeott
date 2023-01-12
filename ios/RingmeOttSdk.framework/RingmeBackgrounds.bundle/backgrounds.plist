@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<string>bg_default_white</string>
+	<key>1</key>
+	<string>background01</string>
+	<key>2</key>
+	<string>background02</string>
+	<key>3</key>
+	<string>background03</string>
+	<key>4</key>
+	<string>background04</string>
+	<key>5</key>
+	<string>background05</string>
+	<key>6</key>
+	<string>background06</string>
+	<key>7</key>
+	<string>background07</string>
+	<key>8</key>
+	<string>background08</string>
+	<key>9</key>
+	<string>background09</string>
+	<key>10</key>
+	<string>background10</string>
+	<key>11</key>
+	<string>background11</string>
+	<key>12</key>
+	<string>background12</string>
+	<key>13</key>
+	<string>background13</string>
+	<key>14</key>
+	<string>background14</string>
+	<key>15</key>
+	<string>background15</string>
+	<key>16</key>
+	<string>background16</string>
+</dict>
+</plist>
