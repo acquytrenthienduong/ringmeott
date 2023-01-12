@@ -47,5 +47,32 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>AppServiceID</key>
+	<string>Đây là app service id nhận được của ringme</string>
+	<key>NSContactsUsageDescription</key>
+	<string>To get contact</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>To send Photo</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>To send Voice</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Permission to use Location Service</string>
+	<key>Privacy - Privacy - Location Always and When In Use Usage Description</key>
+	<string>Permission to use Location Service</string>
+	<key>NSCameraUsageDescription</key>
+	<string>To send Photo</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+		<string>fetch</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+		<string>voip</string>
+	</array>
 </dict>
 </plist>
